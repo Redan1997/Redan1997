@@ -45,9 +45,9 @@ I'm a **Software Engineer** with a B.Sc. in Software Engineering from Braude Aca
 
 ## 📊 GitHub Stats
 
-![Redan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Redan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redan1997&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redan1997&layout=compact&theme=radical)
 
 
 
