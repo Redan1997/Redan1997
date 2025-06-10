@@ -57,7 +57,7 @@ I'm a **Software Engineer** with a B.Sc. in Software Engineering from Braude Aca
 - **English**: Proficient
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/redan-ganim-r1997/)
 - 📧 Email: RedanGanim@gmail.com
 
 ## 🎯 Currently Looking For
@@ -65,4 +65,4 @@ I'm seeking opportunities where I can leverage my technical skills and leadershi
 
 ---
 
-⭐️ From [Redan Ganim](https://github.com/YourGitHubUsername)
+⭐️ From [Redan Ganim](https://github.com/Redan1997)
