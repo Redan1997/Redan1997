@@ -85,12 +85,6 @@ A professional specialization program focused on embedded systems development, c
 
 ---
 
-## 📊 GitHub Stats
-![Redan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redan1997&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redan1997&layout=compact&theme=radical)
-
----
-
 ## 🌍 Languages
 - **Arabic**: Native
 - **Hebrew**: Proficient
